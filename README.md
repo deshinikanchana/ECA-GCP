@@ -143,3 +143,9 @@ npm run dev
 - **Storage :** Local disk (extendable to S3/MinIO)
 
 - **Cloud Providers :** AWS RDS, GCP Cloud SQL
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License – see the [LICENSE](License) file for details.
