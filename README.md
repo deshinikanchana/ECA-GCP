@@ -128,7 +128,7 @@ npm run dev
 
 ## 🎥 Demo Video
 **A walkthrough of this project is available here:**
-[Watch Demo](https://drive.google.com/file/d/1nMe5sv5NGdfBVDdwzFlkhUzJOM3Bs9ok/view?usp=sharing)
+[Watch Demo](https://drive.google.com/file/d/1OofnaE04y9bzx69Uoyoe8W-Qi27giD__/view?usp=sharing)
 
 ---
 
