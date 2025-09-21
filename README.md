@@ -149,3 +149,11 @@ npm run dev
 ## 📄 License
 
 This project is licensed under the MIT License – see the [LICENSE](License) file for details.
+
+---
+
+## 👩‍🎓 Student Information  
+**Name:** K.M.G.Deshini Kanchana Sampath  
+**Student ID:** 2301682027  
+**Email:** [deshinisampath@gmail.com](mailto:deshinisampath@gmail.com) 
+
